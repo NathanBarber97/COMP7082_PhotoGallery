@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PhotoGallery</string>
+    <string name="main_image_view">Main Image</string>
+    <string name="image_view_description">Current Picture</string>
+    <string name="snap_button_text">Snap</string>
+    <string name="left_button_text">Left</string>
+    <string name="right_button_text">Right</string>
+    <string name="options_button_text">Options</string>
+    <string name="search_button_text">Search</string>
+    <string name="upload_button_text">Upload</string>
+    <string name="image_info_textview">Image details</string>
+    <string name="caption_edittext_hint">Captions</string>
+    <string name="take_pic_text">Capture</string>
+    <string name="gallery_button_text">Gallery</string>
+    <string name="time_start_text">First Day: (DD/MM/YYYY)</string>
+    <string name="time_stop_text">Last Day: (DD/MM/YYYY)</string>
+    <string name="cancel_button_text">Cancel</string>
+    <string name="search_go_button_text">Go!</string>
+    <string name="save_date_format">yyyyMMdd_HHmmss</string>
+    <string name="input_date_format">dd/MM/yyyy</string>
+</resources>
