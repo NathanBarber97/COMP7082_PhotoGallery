@@ -4,29 +4,39 @@ ADDED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\Android
 INJECTED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:2:1-39:12
 INJECTED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:2:1-39:12
 INJECTED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:2:1-39:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7d0efdaa3cbfd063edf3939af6b9b511\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\04dc4660b3100e9419eb91a825dcbe89\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\e13941f593569d2cbac7200a96f3d679\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a4a17f76b2b8fe4688fc3c3c9f45b675\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f2143c63ea5f281cc4f1c987a8a61e6f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\72cd4868ed3aa444f60354b6432e2df8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c8da2bb91cf1112d18edb598d38fbcd7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7c7e968e52f4b5700be4428b582ba670\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2b498959879eb33b19e6b5c55a6c468a\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\sqlite-framework-2.0.0.aar\69afa1ab0f4176032cbc84a92de1c4cb\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\sqlite-2.0.0.aar\d506d612d19c3c59e651c31060def25d\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.1-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.1-alpha01.aar\dba23b0e7b1c50ef51e95c13937adb70\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-rc01.aar\a7919c6d0a74058bfeb0df6145c949a1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\35fd90bdec1414fe38761f410bb71496\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\80a174a2faeb51cb1c330458bb1ce892\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-rc01.aar\a7e950d1096b8187afea777cf67ed953\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\01150c761192aaa85df642004d316ff4\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-rc01.aar\4f4d1a4afee5c85f29dd99ccba88f0f5\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-rc01.aar\6fc4d6c6c20a4ee0db9d14ba25abb2e8\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\348e0c360c86f04c3adb0559c02a1fd5\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\d54d219da3ee793cb6bb41f9b73343fe\AndroidManifest.xml:17:1-25:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2e53c171ff540800936a0be9996010d0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\df97e23ff3a787ecdb2d079acaf06c7f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\79ed53f6f002a750b73efd6497b3a6a0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\eafeecb36890e22aba9bea9eea8934cc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-rxjava2:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-rxjava2-2.1.0-alpha01.aar\f12918d52fa709b0699f829fd757169e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-guava:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-guava-2.1.0-alpha01.aar\461e2fe63a99023de027ff36fafb47fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\3049f16c4d02adeb9f14f8609a41fa64\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-rc01.aar\618a2e3bfbb58c2c3ab54c0dc73f956f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\sqlite-framework-2.0.0.aar\7963dc8eda16af3a36dc4da1043d1b29\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\sqlite-2.0.0.aar\fba3f3fc93bdb23391109270f3767197\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\9a385fa02125ce3a1bf2cf81afdd4ca7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\cbab76ed6fbba4960583658dfd693c2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\7972693b545552d180db9078a25332e2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\8f7cbaa705ee0ab209015f9f635718a3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\a04f94247eaea0d9f04cb56b349350f2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\54aabe91afe50f80e7144ff6f1effbf8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c8a0be158f975290f4de5796819d77b6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\c7447b82a048200afa868368825e65ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\bcc010cdfdeaf51a3e7985bcd0172106\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\44efbb82f0584df1f41ecc2fab54d426\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\4265528a9d0c6f8a959603ba5277c22a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\2e61f03ba3fa1bb2b7d720489b5dc4ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c39cdaa67f2daab92cf06b7d20e6d0af\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\999d1d0503a4ddbccadae24dfa61b7f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\07c9600160b5f9e3a7adcffee10b0981\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\501dfa000068e7048808bb66acf083d5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\aeb5a84a7c2922d503edc954c546781b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.1-alpha01.aar\66afd1fad80f29cac5ca144b0c407b6f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\6f79de2b2a33f5c9e0316b24776cd736\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\f75397b2ff9e3018942e549c160ff206\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\2d804619bfb53dbd779ac6a85dcaf0bf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\9fdb10c92dfbaafa2c2b3f9095b3e3a3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\2abcec62f4aa252389dcc7efff0f2cf6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\1eae4047fbf3753ea01d41eaa9e3f24c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\49e40a7e014c04469e1d20f2e17138c7\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:2:1-39:12
 INJECTED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:2:1-39:12
 INJECTED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:2:1-39:12
@@ -56,16 +66,16 @@ ADDED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\Android
 		ADDED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:9:22-78
 application
 ADDED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:11:5-37:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\04dc4660b3100e9419eb91a825dcbe89\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\04dc4660b3100e9419eb91a825dcbe89\AndroidManifest.xml:9:5-20
-MERGED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\e13941f593569d2cbac7200a96f3d679\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\e13941f593569d2cbac7200a96f3d679\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\01150c761192aaa85df642004d316ff4\AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\01150c761192aaa85df642004d316ff4\AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\d54d219da3ee793cb6bb41f9b73343fe\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\d54d219da3ee793cb6bb41f9b73343fe\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\79ed53f6f002a750b73efd6497b3a6a0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\79ed53f6f002a750b73efd6497b3a6a0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\3049f16c4d02adeb9f14f8609a41fa64\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\3049f16c4d02adeb9f14f8609a41fa64\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\501dfa000068e7048808bb66acf083d5\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\501dfa000068e7048808bb66acf083d5\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\6f79de2b2a33f5c9e0316b24776cd736\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\6f79de2b2a33f5c9e0316b24776cd736\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\01150c761192aaa85df642004d316ff4\AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\501dfa000068e7048808bb66acf083d5\AndroidManifest.xml:22:18-86
 	android:supportsRtl
 		ADDED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
@@ -78,7 +88,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Use
 		ADDED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
 		ADDED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:17:9-40
-provider#android.support.v4.content.FileProvider
+provider#androidx.core.content.FileProvider
 ADDED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:18:9-26:20
 	android:grantUriPermissions
 		ADDED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:22:13-47
@@ -87,7 +97,7 @@ ADDED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\Android
 	android:exported
 		ADDED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:19:13-67
+		ADDED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:19:13-62
 meta-data#android.support.FILE_PROVIDER_PATHS
 ADDED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml:23:13-25:54
 	android:resource
@@ -120,52 +130,72 @@ uses-sdk
 INJECTED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7d0efdaa3cbfd063edf3939af6b9b511\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7d0efdaa3cbfd063edf3939af6b9b511\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\04dc4660b3100e9419eb91a825dcbe89\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\04dc4660b3100e9419eb91a825dcbe89\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\e13941f593569d2cbac7200a96f3d679\AndroidManifest.xml:20:5-44
-MERGED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\e13941f593569d2cbac7200a96f3d679\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a4a17f76b2b8fe4688fc3c3c9f45b675\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a4a17f76b2b8fe4688fc3c3c9f45b675\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f2143c63ea5f281cc4f1c987a8a61e6f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f2143c63ea5f281cc4f1c987a8a61e6f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\72cd4868ed3aa444f60354b6432e2df8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\72cd4868ed3aa444f60354b6432e2df8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c8da2bb91cf1112d18edb598d38fbcd7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c8da2bb91cf1112d18edb598d38fbcd7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7c7e968e52f4b5700be4428b582ba670\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7c7e968e52f4b5700be4428b582ba670\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2b498959879eb33b19e6b5c55a6c468a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2b498959879eb33b19e6b5c55a6c468a\AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\sqlite-framework-2.0.0.aar\69afa1ab0f4176032cbc84a92de1c4cb\AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\sqlite-framework-2.0.0.aar\69afa1ab0f4176032cbc84a92de1c4cb\AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\sqlite-2.0.0.aar\d506d612d19c3c59e651c31060def25d\AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\sqlite-2.0.0.aar\d506d612d19c3c59e651c31060def25d\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.1-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.1-alpha01.aar\dba23b0e7b1c50ef51e95c13937adb70\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.1-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.1-alpha01.aar\dba23b0e7b1c50ef51e95c13937adb70\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-rc01.aar\a7919c6d0a74058bfeb0df6145c949a1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-rc01.aar\a7919c6d0a74058bfeb0df6145c949a1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\35fd90bdec1414fe38761f410bb71496\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\35fd90bdec1414fe38761f410bb71496\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\80a174a2faeb51cb1c330458bb1ce892\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\80a174a2faeb51cb1c330458bb1ce892\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-rc01.aar\a7e950d1096b8187afea777cf67ed953\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-rc01.aar\a7e950d1096b8187afea777cf67ed953\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\01150c761192aaa85df642004d316ff4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\01150c761192aaa85df642004d316ff4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-rc01.aar\4f4d1a4afee5c85f29dd99ccba88f0f5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-rc01.aar\4f4d1a4afee5c85f29dd99ccba88f0f5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-rc01.aar\6fc4d6c6c20a4ee0db9d14ba25abb2e8\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-rc01.aar\6fc4d6c6c20a4ee0db9d14ba25abb2e8\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\348e0c360c86f04c3adb0559c02a1fd5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\348e0c360c86f04c3adb0559c02a1fd5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\d54d219da3ee793cb6bb41f9b73343fe\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\d54d219da3ee793cb6bb41f9b73343fe\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2e53c171ff540800936a0be9996010d0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2e53c171ff540800936a0be9996010d0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\df97e23ff3a787ecdb2d079acaf06c7f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\df97e23ff3a787ecdb2d079acaf06c7f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\79ed53f6f002a750b73efd6497b3a6a0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\79ed53f6f002a750b73efd6497b3a6a0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\eafeecb36890e22aba9bea9eea8934cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\eafeecb36890e22aba9bea9eea8934cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava2:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-rxjava2-2.1.0-alpha01.aar\f12918d52fa709b0699f829fd757169e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava2:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-rxjava2-2.1.0-alpha01.aar\f12918d52fa709b0699f829fd757169e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-guava:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-guava-2.1.0-alpha01.aar\461e2fe63a99023de027ff36fafb47fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-guava:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-guava-2.1.0-alpha01.aar\461e2fe63a99023de027ff36fafb47fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\3049f16c4d02adeb9f14f8609a41fa64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\3049f16c4d02adeb9f14f8609a41fa64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-rc01.aar\618a2e3bfbb58c2c3ab54c0dc73f956f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-rc01.aar\618a2e3bfbb58c2c3ab54c0dc73f956f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\sqlite-framework-2.0.0.aar\7963dc8eda16af3a36dc4da1043d1b29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\sqlite-framework-2.0.0.aar\7963dc8eda16af3a36dc4da1043d1b29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\sqlite-2.0.0.aar\fba3f3fc93bdb23391109270f3767197\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\sqlite-2.0.0.aar\fba3f3fc93bdb23391109270f3767197\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\9a385fa02125ce3a1bf2cf81afdd4ca7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\9a385fa02125ce3a1bf2cf81afdd4ca7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\cbab76ed6fbba4960583658dfd693c2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\cbab76ed6fbba4960583658dfd693c2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\7972693b545552d180db9078a25332e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\7972693b545552d180db9078a25332e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\8f7cbaa705ee0ab209015f9f635718a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\8f7cbaa705ee0ab209015f9f635718a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\a04f94247eaea0d9f04cb56b349350f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\a04f94247eaea0d9f04cb56b349350f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\54aabe91afe50f80e7144ff6f1effbf8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\54aabe91afe50f80e7144ff6f1effbf8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c8a0be158f975290f4de5796819d77b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c8a0be158f975290f4de5796819d77b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\c7447b82a048200afa868368825e65ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\c7447b82a048200afa868368825e65ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\bcc010cdfdeaf51a3e7985bcd0172106\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\bcc010cdfdeaf51a3e7985bcd0172106\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\44efbb82f0584df1f41ecc2fab54d426\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\44efbb82f0584df1f41ecc2fab54d426\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\4265528a9d0c6f8a959603ba5277c22a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\4265528a9d0c6f8a959603ba5277c22a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\2e61f03ba3fa1bb2b7d720489b5dc4ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\2e61f03ba3fa1bb2b7d720489b5dc4ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c39cdaa67f2daab92cf06b7d20e6d0af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c39cdaa67f2daab92cf06b7d20e6d0af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\999d1d0503a4ddbccadae24dfa61b7f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\999d1d0503a4ddbccadae24dfa61b7f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\07c9600160b5f9e3a7adcffee10b0981\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\07c9600160b5f9e3a7adcffee10b0981\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\501dfa000068e7048808bb66acf083d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\501dfa000068e7048808bb66acf083d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\aeb5a84a7c2922d503edc954c546781b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\aeb5a84a7c2922d503edc954c546781b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.1-alpha01.aar\66afd1fad80f29cac5ca144b0c407b6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.1-alpha01.aar\66afd1fad80f29cac5ca144b0c407b6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\6f79de2b2a33f5c9e0316b24776cd736\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\6f79de2b2a33f5c9e0316b24776cd736\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\f75397b2ff9e3018942e549c160ff206\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\f75397b2ff9e3018942e549c160ff206\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\2d804619bfb53dbd779ac6a85dcaf0bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\2d804619bfb53dbd779ac6a85dcaf0bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\9fdb10c92dfbaafa2c2b3f9095b3e3a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\9fdb10c92dfbaafa2c2b3f9095b3e3a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\2abcec62f4aa252389dcc7efff0f2cf6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\2abcec62f4aa252389dcc7efff0f2cf6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\1eae4047fbf3753ea01d41eaa9e3f24c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\1eae4047fbf3753ea01d41eaa9e3f24c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\49e40a7e014c04469e1d20f2e17138c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\49e40a7e014c04469e1d20f2e17138c7\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -177,8 +207,8 @@ INJECTED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\Andr
 		ADDED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\chach\Desktop\BTech\COMP7082\Assignment_PhotoGallery\AndroidApp\PhotoGallery\app\src\main\AndroidManifest.xml
 service#androidx.room.MultiInstanceInvalidationService
-ADDED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\e13941f593569d2cbac7200a96f3d679\AndroidManifest.xml:23:9-25:40
+ADDED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\3049f16c4d02adeb9f14f8609a41fa64\AndroidManifest.xml:23:9-25:40
 	android:exported
-		ADDED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\e13941f593569d2cbac7200a96f3d679\AndroidManifest.xml:25:13-37
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\3049f16c4d02adeb9f14f8609a41fa64\AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\e13941f593569d2cbac7200a96f3d679\AndroidManifest.xml:24:13-74
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha01] C:\Users\chach\.gradle\caches\transforms-1\files-1.1\room-runtime-2.1.0-alpha01.aar\3049f16c4d02adeb9f14f8609a41fa64\AndroidManifest.xml:24:13-74

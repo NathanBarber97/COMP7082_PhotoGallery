@@ -8,8 +8,8 @@ import androidx.room.Index;
 import androidx.room.PrimaryKey;
 
 @Entity(tableName = "captions", foreignKeys = @ForeignKey(entity = Photo.class,
-                                                            parentColumns = "fileName",
-                                                            childColumns = "fileName"),
+                                                            parentColumns = "file_name",
+                                                            childColumns = "file_name"),
         indices = {@Index(value = {"caption"}, unique = true)})
 public class Caption {
     @PrimaryKey(autoGenerate = true)
@@ -21,4 +21,9 @@ public class Caption {
     @NonNull
     @ColumnInfo(name = "file_name")
     public String fileName;
+
+    public Caption(String caption, String fileName) {
+        this.caption = caption;
+        this.fileName = fileName;
+    }
 }

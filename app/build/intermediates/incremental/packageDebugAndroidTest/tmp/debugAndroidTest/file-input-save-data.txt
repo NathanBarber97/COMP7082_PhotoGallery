@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Oct 11 00:07:22 PDT 2018
+1.base=C\:\\Users\\chach\\Desktop\\BTech\\COMP7082\\Assignment_PhotoGallery\\AndroidApp\\PhotoGallery\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\chach\\Desktop\\BTech\\COMP7082\\Assignment_PhotoGallery\\AndroidApp\\PhotoGallery\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\1
+1.path=classes.dex

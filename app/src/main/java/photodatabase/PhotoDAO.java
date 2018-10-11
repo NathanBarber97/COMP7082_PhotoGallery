@@ -25,6 +25,27 @@ public interface PhotoDAO {
     @Query("SELECT * FROM photos WHERE file_name=:fileName")
     public Photo getPhoto(String fileName);
 
+    @Query("SELECT * FROM photos WHERE date_time BETWEEN :start AND :end")
+    public List<Photo> searchByDate(long start, long end);
+
+    @Query("SELECT * FROM photos WHERE (latitude BETWEEN :topLeftLat AND :botRightLat) " +
+            "AND (longitude BETWEEN :topLeftLong AND :botRightLong)")
+    public List<Photo> searchByLocation(long topLeftLat, long botRightLat,
+                                        long topLeftLong, long botRightLong);
+
+    @Query("SELECT * FROM photos WHERE file_name " +
+            "IN (SELECT DISTINCT file_name FROM captions WHERE caption=:caption)")
+    public List<Photo> searchByCaption(String caption);
+
+    @Query("SELECT * FROM photos WHERE (date_time BETWEEN :start AND :end) " +
+            "AND (latitude BETWEEN :topLeftLat AND :botRightLat) " +
+            "AND (longitude BETWEEN :topLeftLong AND :botRightLong)" +
+            "AND (file_name IN (SELECT DISTINCT file_name FROM captions WHERE caption=:caption))")
+    public List<Photo> searchByAll(long start, long end,
+                                   long topLeftLat, long botRightLat,
+                                   long topLeftLong, long botRightLong,
+                                   String caption);
+
     @Insert
     public void insertCaption(Caption caption);
 
@@ -34,7 +55,7 @@ public interface PhotoDAO {
     @Delete
     public void deleteCaptions(Caption... captions);
 
-    @Query("DELETE FROM captions WHERE caption NOT IN :currentCaptions")
+    @Query("DELETE FROM captions WHERE caption NOT IN (:currentCaptions)")
     public void deleteOldCaptions(String[] currentCaptions);
 
     @Query("SELECT caption FROM captions WHERE file_name=:fileName")
