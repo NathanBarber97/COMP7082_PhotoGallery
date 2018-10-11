@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\chach\\Desktop\\BTech\\COMP7082\\Assignment_PhotoGallery\\AndroidApp\\PhotoGallery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\chach\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\7d0efdaa3cbfd063edf3939af6b9b511\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\chach\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\eafeecb36890e22aba9bea9eea8934cc\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
